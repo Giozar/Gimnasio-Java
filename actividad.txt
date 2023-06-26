@@ -1,0 +1,9 @@
+Acondicionamiento Físico,Entrenador A,200,300
+Gimnasia Olímpica,Entrenador B,500,1500
+Taekwondo,Entrenador C,700,300
+Pilates,Entrenador D,300,600
+Zumba,Entrenador E,60,0
+Taebo,Entrenador F,500,200
+Box,Entrenador G,40,800
+Pesas,Entrenador H,200,500
+Yoga,Entrenador I,200,100
